@@ -16,6 +16,11 @@
 
   <dependencies>
     <dependency>
+      <groupId>org.scala-lang</groupId>
+      <artifactId>scala3-library_3</artifactId>
+      <version>3.4.1</version>
+    </dependency>
+    <dependency>
       <groupId>jakarta.platform</groupId>
       <artifactId>jakarta.jakartaee-api</artifactId>
       <version>10.0.0</version>

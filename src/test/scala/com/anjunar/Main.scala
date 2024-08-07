@@ -14,7 +14,7 @@ object Main {
       .setParameter("name", "test")
       .setParameter("id", UUID.randomUUID())
       .getSingleResult
-    
+
   }
 
 }
